@@ -20,7 +20,7 @@ Game::Game()
 		return Window;
 	});
 
-	// Test background
+	// Test stage
 	std::shared_ptr<BackgroundAbsoluteGrid> stage = BackgroundAbsoluteGrid::Create("pic/login/backLogin.jpg");
 	m_ManagedWindow->AddChild(stage);
 
