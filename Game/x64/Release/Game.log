@@ -1,0 +1,15 @@
+﻿  AbsoluteGrid.cpp
+  BackgroundAbsoluteGrid.cpp
+  Control.cpp
+  Game.cpp
+  main.cpp
+  main_legacy.cpp
+  ManagedWindow.cpp
+  MouseClickEvent.cpp
+  Player.cpp
+  PositionUtils.cpp
+  SpriteObject.cpp
+  Generating code
+  All 1026 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> C:\Users\Souta\source\repos\Game\x64\Release\Game.exe
